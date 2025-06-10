@@ -12,4 +12,6 @@
     inner_frame_layout_padding (below variable) on round screens.
     -->
     <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="total_score_text_size">25sp</dimen>
+    <dimen name="team_score_text_size">50sp</dimen>
 </resources>
